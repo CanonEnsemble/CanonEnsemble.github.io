@@ -9,4 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+For a full list of my publications, please visit my [Google Scholar](https://scholar.google.co.uk/citations?user=injedhUAAAAJ&hl=en).
+
+# Physics in Hyperbolic Space
 test
+
+
+# Monopole Superconductivity

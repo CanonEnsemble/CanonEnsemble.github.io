@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Work experience
+Work Experience
 ======
 * Postdoctoral Fellow, University of Alberta, 2021-
   * Advisors: Joseph Maciejko and Igor Boettcher
