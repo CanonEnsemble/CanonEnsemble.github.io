@@ -22,7 +22,7 @@ Employment
 Education
 ======
 * PhD in Physics, Johns Hopkins University, 2021
-  * Thesis: Topological Superconducting and Density-wave Orders
+  * Thesis: Topological Superconducting and Density Wave Orders
   * Advisor: Yi Li
 * MA in Physics, Johns Hopkins University, 2018
 * MPhys in Physics, University of Oxford, 2016
